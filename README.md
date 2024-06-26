@@ -1,21 +1,23 @@
-# XMTP React Hooks Quickstart
+# XMTP Quickstart JS Content Types
+
+![xmtp](https://github.com/xmtp/xmtp-quickstart-reactjs/assets/1447073/3f2979ec-4d13-4c3d-bf20-deab3b2ffaa1)
 
 ## Installation
 
 ```bash
-bun install
-bun start
+yarn install
+yarn dev
 ```
 
 ## Concepts
 
-Head to our docs to understand our hooks concepts with our react SDK
+Head to our docs to understand our concepts with our react SDK
 
-- [Get started](https://xmtp.org/docs/build/get-started?sdk=rn)
-- [Authentication](https://xmtp.org/docs/build/authentication?sdk=rn)
-- [Conversations](https://xmtp.org/docs/build/conversations?sdk=rn)
-- [Messages](https://xmtp.org/docs/build/messages/?sdk=rn)
-- [Streams](https://xmtp.org/docs/build/streams/?sdk=rn)
+- [Get started](https://xmtp.org/docs/build/get-started)
+- [Authentication](https://xmtp.org/docs/build/authentication)
+- [Conversations](https://xmtp.org/docs/build/conversations)
+- [Messages](https://xmtp.org/docs/build/messages/)
+- [Streams](https://xmtp.org/docs/build/streams/)
 
 ## Content Types
 
